@@ -1,8 +1,8 @@
-[Software Development Company}(https://github.com/omolo4838/omolo4838/blob/main/Screenshot_2.png?raw=true)
 
-### Hi 👋, Achiando Francline
-#### Founder of Tijwa Technologies
+![Founder of Tijwa Technologies Design and Develop all Software's including Machine Learning and AI models](https://github.com/omolo4838/omolo4838/blob/main/Screenshot_2.png?raw=true)
 
+### Hi there 👋, Achiando Francline
+#### Founder of Tijwa Technologies 
 Services
 * Design of applications
 * Web Development
@@ -25,6 +25,12 @@ Skills:
   * Tensor Flow
   * Text to Speech
   * Web Scrapping
+We have work with quite a number of projects Like Jaotefy{www.jaotefy.com} a platform for managing payment
 
-- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 
