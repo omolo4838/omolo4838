@@ -6,6 +6,3 @@ Skills:  / REACT / JS / HTML / CSS/REACT NATIVE / FLUTTER/ TENSOR FLOW/PYTHON/JS
 
 - 🔭 I’m currently working on this page. 
 
-
-
-
