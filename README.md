@@ -1,4 +1,4 @@
-https://github.com/omolo4838/omolo4838/blob/main/Screenshot_2.png?raw=true
+(https://github.com/omolo4838/omolo4838/blob/main/Screenshot_2.png?raw=true)
 
 ### Hi 👋, Achiando Francline
 #### Founder of Tijwa Technologies
